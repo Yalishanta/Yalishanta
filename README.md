@@ -5,7 +5,7 @@ Second-year student of the Faculty of Physics at the Higher School of Economics.
 - 🌱 I’m currently learning in Higher School of Economics
 - 📫 How to reach me:
   - E.mail: sashatimokhin123@bk.ru
-  - Telegram: Yalishanta0_o
+  - Telegram: [Yalishanta0_o](https://t.me/Yalishanta0_o)
 
                      
 
