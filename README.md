@@ -15,6 +15,7 @@ Second-year student of the Faculty of Physics at the Higher School of Economics.
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=4682B4)
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=NumPy&logoColor=1E90FF)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=20B2AA)
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=20B2AA)
 ![Sql](https://img.shields.io/badge/-Sql-000000?style=for-the-badge&logo=mysql&logoColor=00BFFF)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c&logoColor=20B2AA)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=8B0000)
